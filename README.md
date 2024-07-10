@@ -1,6 +1,6 @@
 # Barbod Ghaseminia
 
-Hello! My name is Barbod Ghaseminia. I am an 18-year-old male from Tehran. Currently, I am a computer science student and I'm taking the CS50 course.
+Hello! My name is Barbod Ghaseminia. I am an 18-year-old dude from Tehran. Currently, I am a computer science student and I'm taking the CS50 course.
 
 ## Skills
 
