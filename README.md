@@ -1,16 +1,17 @@
-## Hi there 👋
+# Barbod Ghaseminia
 
-<!--
-**Barbodgh/Barbodgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Barbod Ghaseminia, an 18-year-old computer science student from Tehran. I'm currently diving deep into computer science concepts through the CS50 course while sharpening my programming and technical skills.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** Python, HTML, CSS, PHP  
+- **Additional Knowledge:** Networking fundamentals, Linux (Bash)  
+- **Interests:** Cybersecurity, software development, and web development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![Barbod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barbodgh&show_icons=true&theme=transparent)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barbodgh&layout=compact&theme=transparent)
+
+## Contact Me
+- **Personal Email:** [B.personal@outlook.com](mailto:B.personal@outlook.com)  
+- **Coding Email:** [B.coding@outlook.com](mailto:B.coding@outlook.com)  
+- **LinkedIn:** [Connect with me](#)  
